@@ -1,7 +1,7 @@
 # dashier ist jetzt ein module
 
 # constances schreibt in der regel über den modulen und in CAPS
-FILEPATH = r"saves\todos.txt"
+FILEPATH = r"saves/todos.txt"
 
 DEFAULT_PRINTABLE = "test"
 def test(printable = DEFAULT_PRINTABLE):
